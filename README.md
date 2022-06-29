@@ -7,7 +7,7 @@ Se pedía desarrollar una aplicación de consola en Python usando variables, est
 <b>-Una interfaz:</b>
 
 <ul><li>1.Que muestre menú e información pertinente al usuario.</li>
-<li>Reciba la entrada de texto que ingresa el usuario.</li></ul>
+<li>2.Reciba la entrada de texto que ingresa el usuario.</li></ul>
 
 <b>-Un menú con opciones:</b>
 
